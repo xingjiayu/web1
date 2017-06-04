@@ -1,0 +1,18 @@
+.list{
+	width:1000px;
+	margin:0px auto;
+}
+.image{
+	width:180px;
+	height:180px;
+	padding:4px;
+	margin:5px;
+	float:left;
+	border:1px #ccc solid;
+	opacity:0.5;
+	font:16px "微软雅黑";
+}
+.image a:hover img{
+	border:1px #333 solid;
+	opacity:1;
+}
