@@ -1,0 +1,30 @@
+.first{
+	width:1000px;
+	height:55px;
+	background:url(images/menu_bg.png)no-repeat;
+	background-size:1000px 65px;
+	margin:auto;
+	overflow:hidden;
+	margin-top:20px;
+	/*background:#0f0;*/
+}
+.first a:hover{
+	width:150px;
+	height:55px;
+	background:url(images/menu_bg1.png)no-repeat;
+	background-size:85px 60px;
+	padding:10px;
+	/*margin-left:-40px;*/
+}
+.first li{
+	list-style:none;	
+	float:left;
+	margin-left:20px;
+}
+.first li a{
+	text-decoration:none;
+	color:#666;
+	font-weight:bold;
+	font-size:15px;
+	line-height:35px;
+}
