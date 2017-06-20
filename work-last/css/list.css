@@ -1,0 +1,213 @@
+.header{
+	width:1350px;
+	height:500px;
+	background:url("../images/bg.jpg")no-repeat;
+	background-size:1350px 500px;
+	margin-top:-15px;
+	margin-left:-10px;
+}
+.banner{
+	width:500px;
+	height:45px;
+	background:#7799ff;
+	/*opacity:0.75*/;
+	float:right;
+}
+.banner ul li{
+	float:left;
+	list-style:none;
+	margin-left:10px;
+	color:#fff;
+}
+.banner li a{
+	text-decoration:none;
+	color:#fff;
+	font-weight:bold;
+	padding:1px;
+}
+.banner li a:hover{
+	color:orange;
+}
+.content{
+	width:1150px;
+	height:1250px;
+	/*margin:0 auto;*/
+	margin-left:150px;
+}
+.left{
+	width:350px;
+	height:1250px;
+	float:left;
+	/*background:#f00;*/
+}
+.center{
+	width:350px;
+	height:1250px;
+	float:left;
+	/*background:#0f0;*/
+	margin-left:10px;
+}
+.right{
+	width:350px;
+	height:1250px;
+	float:left;
+/*	background:#00f;*/
+	margin-left:10px;
+}
+.left_top{
+	width:350px;
+	height:300px;
+	background:url("../images/tupian10.png")no-repeat;
+	background-size:350px 300px;
+	border:1px solid #ccc;
+	padding:0px;
+}
+.left_top p{
+	color:#99f;
+	padding:65px;
+	line-height:30px;
+	font-family:'方正舒体';
+	font-size:22px;
+}
+.left_center{
+	width:350px;
+	height:450px;
+	background:url("../images/tupian11.png")no-repeat;
+	background-size:350px 450px;
+	border:1px solid #ccc;
+	padding:0px;
+	margin-top:20px;
+}
+.left_center p{
+	color:#000;
+	padding:65px;
+	line-height:30px;
+	font-family:'方正舒体';
+	font-size:22px;
+}
+.left_bottom{
+	width:350px;
+	height:450px;
+	background:url("../images/tupian12.png")no-repeat;
+	background-size:350px 450px;
+	border:1px solid #ccc;
+	padding:0px;
+	margin-top:20px;
+}
+.left_bottom p{
+	color:#00f;
+	padding:200px 60px 0px 60px;
+	line-height:30px;
+	font-family:'方正舒体';
+	font-size:24px;
+}
+.center_top{
+	width:350px;
+	height:300px;
+	background:url("../images/tupian13.png")no-repeat;
+	background-size:350px 300px;
+	border:1px solid #ccc;
+	padding:0;
+}
+.center_top p{
+	padding:60px;
+	line-height:30px;
+	font-family:'方正舒体';
+	font-size:23px;
+	color:#66f;
+}
+.center_center{
+	width:350px;
+	height:300px;
+	background:url("../images/tupian14.png")no-repeat;
+	background-size:350px 300px;
+	border:1px solid #ccc;
+	padding:0;
+	margin-top:20px;
+}
+.center_center p{
+	padding:65px;
+	line-height:30px;
+	font-family:'方正舒体';
+	font-size:23px;
+	color:#00f;
+}
+.center_bottom{
+	width:350px;
+	height:450px;
+	background:url("../images/tupian15.png")no-repeat;
+	background-size:350px 450px;
+	border:1px solid #ccc;
+	padding:0;
+	margin-top:20px;
+}
+.center_bottom p{
+	padding:70px;
+	line-height:30px;
+	font-family:'方正舒体';
+	font-size:23px;
+	color:#000;
+}
+.right_top{
+	width:350px;
+	height:400px;
+	background:url("../images/tupian16.png")no-repeat;
+	background-size:350px 400px;
+	border:1px solid #ccc;
+	padding:0;
+}
+.right_top p{
+	/*padding:90px;*/
+	line-height:30px;
+	font-family:'方正舒体';
+	font-size:23px;
+	color:#fff;
+	padding-top:200px;
+	padding-left:80px;
+	padding-right:60px;
+
+}
+.right_center{
+	width:350px;
+	height:400px;
+	background:url("../images/tupian17.png")no-repeat;
+	background-size:350px 400px;
+	border:1px solid #ccc;
+	padding:0;
+	margin-top:20px;
+}
+.right_center p{
+	padding:80px;
+	line-height:30px;
+	font-family:'方正舒体';
+	font-size:23px;
+	color:#00f;
+}
+.right_bottom{
+	width:350px;
+	height:400px;
+	background:url("../images/tupian18.png")no-repeat;
+	background-size:350px 400px;
+	border:1px solid #ccc;
+	padding:0;
+	margin-top:20px;
+}
+.right_bottom p{
+	padding:80px;
+	line-height:30px;
+	font-family:'方正舒体';
+	font-size:23px;
+	color:#fff;
+}
+
+
+
+
+
+.footer{
+	width:1340px;
+	height:100px;
+	background:#ccc;
+	margin-top:10px;
+	line-height:50px;
+}
